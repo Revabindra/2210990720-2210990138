@@ -14,7 +14,7 @@ The project is implemented as part of a final-year BTech research initiative and
 ---
 
 ## 🎓 Supervisor
-- Shikha Tuteja (Assistant Professor, CSE Department)
+- Shikha Tuteja (Associate Professor, CSE Department)
 
 ---
 
